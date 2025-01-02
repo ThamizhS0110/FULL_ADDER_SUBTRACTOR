@@ -62,10 +62,7 @@ Generate the timing diagram to verify the correct functionality of both circuits
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-
-Developed by:Thamizh.S 
-RegisterNumber:24900483
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:Thamizh.S   RegisterNumber:24900483
 */
 ![Screenshot 2024-12-04 113005](https://github.com/user-attachments/assets/75a5fd95-7eae-4be1-8ba3-163340d7006b)
 
